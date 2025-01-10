@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">An aspiring fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjharan" /> </p>
-
-
 
 - 🌱 I’m currently learning **Frontend Development from The Odin Project,& Youtube sources**
 
