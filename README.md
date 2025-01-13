@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/VJHARAN?tab=repositories)
 
-- 📫 How to reach me **haranvj1997@gmail.com**
+- 📫 How to reach me **haranvjofficial2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
