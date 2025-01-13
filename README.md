@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Development from The Odin Project,& Youtube sources**
 
-- 👨‍💻 All of my projects are available at [https://shorturl.at/wV3aI](https://github.com/VJHARAN)
+- 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/VJHARAN?tab=repositories)
 
 - 📫 How to reach me **haranvj1997@gmail.com**
 
