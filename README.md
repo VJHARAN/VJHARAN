@@ -36,7 +36,6 @@
 
 <tr>
   <td>
-    
      [![HARAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjharan&show_icons=true&theme=prussian)](https://github.com/vjharan/github-readme-stats)
      
   </td>
