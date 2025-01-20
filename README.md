@@ -35,7 +35,7 @@
 </p>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjharan&show_icons=true&locale=en&layout=compact" alt="vjharan" />
-  [![HARAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjharan&show_icons=true&theme=prussian)](https://github.com/vjharan/github-readme-stats)
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vjharan&theme=prussian&layout=compact)
 
      
  
