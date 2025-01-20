@@ -34,15 +34,13 @@
   </a> 
 </p>
 
-<tr>
-  <td>
-     [![HARAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjharan&show_icons=true&theme=prussian)](https://github.com/vjharan/github-readme-stats)
-     
-  </td>
-  <td> 
+<div style="display: flex; flex-direction: row;">
+  [![HARAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjharan&show_icons=true&theme=prussian)](https://github.com/vjharan/github-readme-stats)
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjharan&show_icons=true&locale=en&layout=compact" alt="vjharan" />
-  </td>
-</tr>
+</div>
+  
+
+     
  
 
 
