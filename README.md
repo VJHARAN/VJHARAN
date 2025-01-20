@@ -34,9 +34,9 @@
   </a> 
 </p>
 <table>
-  <tr align="center">
+  <tr>
     <td>
-  
+
   ![Haran's GitHub stats](https://github-readme-stats.vercel.app/api?username=vjharan&show_icons=true&theme=prussian)
 
   </td>
