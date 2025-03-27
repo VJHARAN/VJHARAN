@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjharan" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development from The Odin Project,& Youtube sources**
+  
+- 💻 All of my projects are available at [Project Repositories](https://vjharan.github.io/portfolio/)
 
 - 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/VJHARAN?tab=repositories)
 
