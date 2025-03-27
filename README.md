@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Development from The Odin Project,& Youtube sources**
   
-- 💻 All of my projects are available at [Project Repositories](https://vjharan.github.io/portfolio/)
+- 💻 All of my projects' demo are available at [Portfolio](https://vjharan.github.io/portfolio/)
 
 - 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/VJHARAN?tab=repositories)
 
