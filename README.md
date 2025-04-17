@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjharan" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development from The Odin Project,& Youtube sources**
+- 🌱 I’m currently learning **FUllstack JavaScript from The Odin Project**
   
-- 💻 All of my projects' demo are available at [Portfolio](https://vjharan.github.io/portfolio/)
+- 💻 All my projects' demo are available at [Portfolio](https://vjharan.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/VJHARAN?tab=repositories)
+- 👨‍💻 All my projects are available at [Project Repositories](https://github.com/VJHARAN?tab=repositories)
 
 - 📫 How to reach me **haranvjofficial2024@gmail.com**
 
