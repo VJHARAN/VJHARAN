@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"     height="40"/> 
   </a> 
 </p>
-[![Haran's GitHub stats](https://github-readme-stats.vercel.app/api?username=VJHARAN&show_icons=true&theme=radical)](https://github.com/VJHARAN)
+![Haran's GitHub stats](https://github-readme-stats.vercel.app/api?username=VJHARAN&show_icons=true&theme=radical)](https://github.com/VJHARAN)
 
  
 
